@@ -1,0 +1,38 @@
+.{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.intro{
+    color:#316DC3;
+}
+
+.duction{
+    color:green;
+}
+
+.duc{
+    text-align: center;
+    width: 900px;
+}
+
+li{
+    display: inline-block;
+    margin-top: 8px;
+}
+
+table{
+    box-shadow: green;
+}
+.sepp{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+
+
